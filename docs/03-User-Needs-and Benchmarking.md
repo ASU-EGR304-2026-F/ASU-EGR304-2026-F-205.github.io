@@ -2,63 +2,8 @@
 title: User Needs and Benchmarking
 ---
 
-## Voice of the Customer Benchmarking Example
 
-### Search #1
-
-**Keywords:** "kid science kit robotics"
-
-**Search Results Link:** [https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2](https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2)
-
-### Selected Products
-
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
-
-![](image1.png)
-
-**(include a picture)**
-
-* Price: $65
-
-* Vendor: Amazon
-
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
-
-##### Positive Comments
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
-
-##### Negative Comments
-
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
-
-#### 2. Next Product goes here
-
-### Search #2
-
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
-
-**Keywords:** <list an alternative search you did, if applicable>
-
-**Search Results Link:** <add your link here>
-
-### Selected Products
-
-#### 3. Next Product goes here
-
-#### 4. Next Product goes here
-
-#### 5. Next Product goes here
-
-## Voice of the Customer Benchmarking Actual 
+## Voice of the Customer Benchmarking 
 
 ### Search #1
 
@@ -129,6 +74,8 @@ title: User Needs and Benchmarking
 
 #### 1. [XLUX Plant Soil Moisture Meter, for Indoor and Outdoor use, Battery-Free](https://www.amazon.com/XLUX-Soil-Moisture-Sensor-Meter/dp/B014MJ8J2U/ref=sr_1_6?dib=eyJ2IjoiMSJ9.PtJCuHumBICH9xbVN_avSoPcyMk5_9LC4sVEQQMcGJyKn8fdMj_JA5zASl7-fHqYsajvF4EizpSvUN9ZrkO2e6JVTqcayaItq1PbvvSlGLmJcoikTrjJhwbIDfXr3qJmGvCqnxBVJbXJnoG4CqY660h-Hy5bJkGqM3VAfx8a7f3iA03pgFDsTWBBJJBS9ZFwSsWm3d2_iuwS2uAIPZKuc6XUHTiEBjbhH2K_gZlthPi1BeFd2efhMCmi2_QonWpdlV83gY_WbOJTwvewUffTI3eQ9JgCjPM9mXLsHcd1W7c.uxxDKnsyOMNwV0oeJjRs_qKbc8eKhU8TSCXS8GnwhO4&dib_tag=se&keywords=plant%2Bsensor&qid=1789423588&sr=8-6&th=1)
 
+![Moisture Meter](image/XLUX.jpg)
+
 * Price: $9.99
 
 * Vendor: Amazon
@@ -186,6 +133,8 @@ title: User Needs and Benchmarking
 ### Selected Products
 
 #### 1. [Smart Sprinklers Controller 2.4GHz WiFi, Irrigation Controller Easy Use App Enabled, 4 Zones + 16 Plans, Save Water Auto Skip Rain, Freeze & Wind, 10 Minutes Install](https://www.amazon.com/Sprinklers-Controller-Irrigation-Enabled-Minutes/dp/B0F883P8N1/ref=sr_1_6?dib=eyJ2IjoiMSJ9.a5-HOKzNVkRvossrKUnKmxZfdnNi9oyn_V0spio0LlGv10yyJGSKc4vLXfFtuK-pP8JvwMiiBjzDvhbXahCjP9VaFf6q5a3l421iDFprberP60QDfogN0vkANQaetuZiWChknAoduVuioxGQ_G0l-Zt8taG17Pm4pjErtW_9Sfm8yxXyvRcPY3NXrVg9P-PQmcJt4RpgauuoHWuE3-67krG6_FjnKpKbEEenQnZJmxvKGDuPRZpuD4KpQRrg_0waVap0YTH8_e9YwPonAsxAzSD1JmjwsNBwQ6tNBVMAruw.T1qpa1Vnc-GUxh2p_bxS7JKoz8ukmsBbKDjyww_950Y&dib_tag=se&keywords=irrigation%2Bmonitor&qid=1789433823&sr=8-6&th=1)
+
+![Smart Sprinklers](image/SmartSprinklers.jpg)
 
 * Price: $39.99
 
@@ -246,6 +195,8 @@ title: User Needs and Benchmarking
 
 #### 1. [Grow Lights for Indoor Plants, Clip-On LED Clamp, Single Head](https://www.amazon.com/Sonamindary-Lights-Indoor-Plants-Single/dp/B0FRF7SQHD/ref=sr_1_3_sspa?crid=3JQVLKVU533V&dib=eyJ2IjoiMSJ9.vNnluaRUJQODZ6lonjgvQ7DoWLDdNPCzb36x7IMMIjZSGk0e7Y2gg_mq14veVJ4LVHD9nZWwG4rocMBPaO8SEPAcZIMVdKibZScN43mpMXaVR5hVIGDM8JEUWoEhf6ewxiIZQVHzGP7b7oRW1qZv3w3Fq3H3YK1Tl8JSpWuRTEd8u09vt-J9wijIhZD8LIMzH4LMTVvd_R6gAIsyHKZMy3yzLVXC6jFj5I_XeZZH_nf7CW81eTbB3clOQX4OJJBs9PjzCbiV1XUIlNNRMyLcYNgfKTdGXsmsMO1VKF2CZLk.hSkZdQ1CjHy4UAvvf9Rnn3SVM0lMnXYgMD-Oi63_mnQ&dib_tag=se&keywords=plant%2Bgrow%2Blight&qid=1789445331&sprefix=plant%2Bgrow%2Bligh%2Caps%2C199&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
+![Grow Light](image/GrowLight.jpg)
+
 * Price: $19.99
 
 * Vendor: Amazon
@@ -304,6 +255,8 @@ title: User Needs and Benchmarking
 ### Selected Products
 
 #### 1. [Smart Plant Pot with Screen, 80ml Self-Watering Planter Green](https://www.amazon.com/Moisture-Self-Watering-Reservoir-Supports-Pomodoro/dp/B0G49PYXL4/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1)
+
+![Smart Pot](image/SmartPot.jpg)
 
 * Price: $92.99
 
