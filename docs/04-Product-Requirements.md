@@ -78,17 +78,17 @@ She loves the simple installment process for her outdoor garden, and appreciates
 
 ## Requirement Criteria Specifications
 
-* The product will accurately display the proper PH rating of the soil within 5 seconds of touching the soil.
-* The product will display soil inaccuracies such as disproportionate nitrogen levels in the soil within 10 seconds of touching the soil.
-* The product will have a user interface that is easy to read and understand by someone with 20-20 vision from a distance of 5 feet. 
-* The product will not be distressed, strain, or destroyed by surviving a free fall from the height of 6 feet. 
-* The product will not be able to recycle old storage data once the owner presses the reset button within 10 seconds. 
-* The product should take someone with a Mensa IQ score of at least 100 no longer than 15 minutes to install into their home garden.
-* The product should be able to be installed by any human with the physical capacity to lift 5 pounds above their shoulders for longer than 60 seconds. 
-* The installation and programming manual should be able to be seen from a distance of 2 feet away by anyone with 20-20 vision.
-* The product will securely hold batteries and the casing that surrounds them should resist weather corrosion and sun decay for a minimum of 20 years.
-* The tip of the soil meter will not be able to penetrate any surface with a fracture toughness of at least 6KJ / m^2 . 
-* The Instruction Manual should take someone with a Mensa IQ score of at least 100 no longer than 15 minutes to understand and comprehend fully to begin using the product.
+* The product will accurately display the proper PH rating of the soil within 5 seconds of touching the soil. (test)
+* The product will display soil inaccuracies such as disproportionate nitrogen levels in the soil within 10 seconds of touching the soil. (test)
+* The product will have a user interface that is easy to read and understand by someone with 20-20 vision from a distance of 5 feet. (test)
+* The product will not be distressed, strain, or destroyed by surviving a free fall from the height of 6 feet. (test)
+* The product will not be able to recycle old storage data once the owner presses the reset button within 10 seconds. (test)
+* The product should take someone with a Mensa IQ score of at least 100 no longer than 15 minutes to install into their home garden. (demonstration)
+* The product should be able to be installed by any human with the physical capacity to lift 5 pounds above their shoulders for longer than 60 seconds. (demonstration)
+* The installation and programming manual should be able to be seen from a distance of 2 feet away by anyone with 20-20 vision. (test)
+* The product will securely hold batteries and the casing that surrounds them should resist weather corrosion and sun decay for a minimum of 20 years. (analysis)
+* The tip of the soil meter will not be able to penetrate any surface with a fracture toughness of at least 6KJ / m^2. (test) 
+* The Instruction Manual should take someone with a Mensa IQ score of at least 100 no longer than 15 minutes to understand and comprehend fully to begin using the product. (demonstration)
 
 
 ## Open Questions
