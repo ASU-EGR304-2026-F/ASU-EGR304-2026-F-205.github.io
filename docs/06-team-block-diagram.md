@@ -2,7 +2,7 @@
 title: Team Block Diagram
 ---
 
-![Needs and Features 1](image/Team_205_Block_Diagram_V5.drawio.png){style="width:768px;"}
+![Needs and Features 1](image/Team_205_Block_Diagram_DR.png){style="width:768px;"}
 
 Our Block Diagram was formatted in a cascading manner to illustrate the flow of communication between board, from the sensing to the display and actuation.
 
