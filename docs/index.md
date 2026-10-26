@@ -17,9 +17,9 @@ Dr. Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+> Team BAMF (Botanical Automation & Monitoring Foundation) presents a brand-new model for plant monitoring, complete with temperature, light, and mositure sensing; these measurements will be able to be displayed on an easy-to-read screen, as well as triggering motors that open a water valve, turn on a fan, and open/close a light shade as needed for the plant.
+
+>This website serves as a living documentation of the process used by Team BAMF to generate and create the plant monitor, through the setup of the team to the complete block diagram. The tabs at the top of this page will walk through the formation of the team, the research into plant monitors, the generation of requirements for the product, the ideation process, and a high-level overview of the final connection between the different sensors/acutators.
 
 
 ## Team Members Datasheet links
