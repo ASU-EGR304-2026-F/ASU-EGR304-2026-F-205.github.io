@@ -3,7 +3,7 @@ title: Ideation and Concept Generation
 ---
 ## Summary of Process
 
-The team decided to keep the best aspects of each iterated design for the final product, understanding how each design presents a unique characteristic while being incomplete itself. This conclusion was informed by the User Needs process, and it was determined that interaction and display for the user was very important. It was also determined that light, moisture, and temperature were the key measurments that users wanted.
+>The team decided to keep the best aspects of each iterated design for the final product, understanding how each design presents a unique characteristic while being incomplete itself. This conclusion was informed by the User Needs process, and it was determined that interaction and display for the user was very important. It was also determined that light, moisture, and temperature were the key measurments that users wanted.
 
 ## Generating Ideas
 
