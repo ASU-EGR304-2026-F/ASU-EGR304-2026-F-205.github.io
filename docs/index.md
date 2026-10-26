@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Project B.A.M.F<br>
 <font size="5">Team 205<br>
-**Submission: September, 04, 2026**<br>
+**Submission: October, 26, 2026**<br>
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
