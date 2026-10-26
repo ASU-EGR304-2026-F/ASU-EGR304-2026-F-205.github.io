@@ -177,7 +177,7 @@ Listed Below is our 100 Features, also listed in their respective groupings.
 ![User Interface and Interaction](Design Ideation/User Interface and Interaction.png){style="width:768px;"}
 ![Alerts](Design Ideation/Alerts.png){style="width:768px;"}
 ![Durability](Design Ideation/Durability.png){style="width:768px;"}
-![Yamron](image/Top_Ideas_Ideation.png){style="width:768px;"}
+![Top Ideas](image/Top_Ideas_new.png){style="width:768px;"}
 
 ## Three Product Concept Sketches
 
