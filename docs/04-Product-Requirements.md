@@ -37,7 +37,6 @@ She loves the simple installment process for her outdoor garden, and appreciates
       * The product will have a sturdy enclosure to prevent any internal systems from moisture, rain, and other unforeseen circumstances.
       * The product’s display will be large enough to be easily understood by any individual in a way that will prevent eye strain.
       * The product will be portable enough to place and replace in multiple places throughout a larger garden.
-      * The product will be battery powered.
       * The product will have a power button and reset button, but aside from that will not provide uses other than the ones stated.
       * The product will be mounted through a stake like feature built into the product.
      
@@ -52,7 +51,7 @@ She loves the simple installment process for her outdoor garden, and appreciates
 3. **Interactivity & User Experience**
       * The product will be able to be read at a glance.
       * The product will be straightforward to the information required.
-      * The product will represent important information via dials.
+      * The product will represent important information via buttons.
       * The product's setup will be made to be simple for any individual who has not used a plant sensor before.
       * The product will be packaged with instructions on how to insert and read the product.
       * The product will be able to have its current information reset by the user at any time.
@@ -61,25 +60,25 @@ She loves the simple installment process for her outdoor garden, and appreciates
       * The product will be sold in two separate colors for different visibility purposes.
       * The product may have different lengths of probes for deeper soils.
       * The product will display units for each dial that is being displayed.
-      * The product will have a red, yellow, green area on each dial to display what are considered good, mediocre, and bad conditions.
+      * The product will have different pot sizes to accomodate different types of plants.
+      * The product will be able to be configured to display different threshold warnings for light, temperature, and moisture for different plants.
 
 5. **Manufacturing**
       * The product should be fully manufactured and ready to use out of the box.
       * The product should be manufactured with the minimum number of parts possible to deliver the performance expected by the customer.
       * The product will be composed of individual replaceable parts that constitute a whole part for ease of repair or replacement.
-      * The product will be manufactured in a way that when it does eventually fail, the product will not destroy or damage its surroundings or the habitat in which it was installed.
+      * The product will be manufactured in a way that if it does eventually fail, the product will not destroy or damage its surroundings or the habitat in which it was installed.
 
 6. **Safety**
-      * The product will have a secure place for batteries and other electrical components assuring they will not take damage from weather or other conditions.
+      * The product will have a secure place for electrical components assuring they will not take damage from weather or other conditions.
       * The product will be safe to use outdoors without worry for any part of the product.
-      * The end of the probe will be dull enough to not puncture any living matter.
+      * The end of the probe will be dull enough to not accidentally puncture any living matter.
       * No electrical component will be placed externally.
 
 
 ## Requirement Criteria Specifications
 
-* The product will accurately display the proper PH rating of the soil within 5 seconds of touching the soil. (test)
-* The product will display soil inaccuracies such as disproportionate nitrogen levels in the soil within 10 seconds of touching the soil. (test)
+* The product will accurately display the proper moisture of the soil within 5 seconds of touching the soil. (test)
 * The product will have a user interface that is easy to read and understand by someone with 20-20 vision from a distance of 5 feet. (test)
 * The product will not be distressed, strain, or destroyed by surviving a free fall from the height of 6 feet. (test)
 * The product will not be able to recycle old storage data once the owner presses the reset button within 10 seconds. (test)
